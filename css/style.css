@@ -1,0 +1,110 @@
+body {
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    color: #333;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .logo {
+    font-size: 36px;
+  }
+  
+  .navbar {
+    display: inline;
+    margin-top: 10px;
+  }
+  
+  .nav-item {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 0 5px;
+    border-radius: 5px;
+    background-color: #555;
+  }
+  
+  main {
+    text-align: center;
+  }
+  
+  #home-section {
+    background-color: #009688;
+    color: #fff;
+    padding: 100px 0;
+  }
+  
+  #home-section h2 {
+    font-size: 42px;
+  }
+  
+  #gallery-section img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin: 10px;
+  }
+  
+  #about-section {  
+    background-color: #ff5722;
+    color: #fff;
+    padding: 80px 0;
+  }
+  
+  #about-section h2 {
+    font-size: 36px;
+  }
+  
+  #contact-section {
+    background-color: #fbc02d;
+    padding: 50px 0;
+  }
+  
+  #contact-section h2 {
+    font-size: 32px;
+  }
+  
+  .input-field,
+  textarea {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .cta-button {
+    padding: 15px 30px;
+    background-color: #f44336;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  
+  
